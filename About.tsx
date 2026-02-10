@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { QUALITIES } from '../constants';
+import { QUALITIES } from './constants';
 
 const About: React.FC = () => {
   return (
