@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { Award, CheckCircle } from 'lucide-react';
-import { CERTIFICATIONS } from '../constants';
+import { CERTIFICATIONS } from './constants';
 
 const Certifications: React.FC = () => {
   return (
