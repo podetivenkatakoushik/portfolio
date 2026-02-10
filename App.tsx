@@ -1,14 +1,14 @@
 import React from 'react';
-import Navbar from './components/Navbar';
-import Hero from './components/Hero';
-import Skills from './components/Skills';
-import About from './components/About';
-import FeatureCards from './components/FeatureCards';
-import Projects from './components/Projects';
-import Certifications from './components/Certifications';
-import Contact from './components/Contact';
-import Footer from './components/Footer';
-import BackgroundAnimation from './components/BackgroundAnimation';
+import Navbar from './Navbar';
+import Hero from './Hero';
+import Skills from './Skills';
+import About from './About';
+import FeatureCards from './FeatureCards';
+import Projects from './Projects';
+import Certifications from './Certifications';
+import Contact from './Contact';
+import Footer from './Footer';
+import BackgroundAnimation from './BackgroundAnimation';
 
 function App() {
   return (
