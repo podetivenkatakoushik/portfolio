@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { ExternalLink } from 'lucide-react';
-import { PROJECTS } from '../constants';
+import { PROJECTS } from './constants';
 
 const Projects: React.FC = () => {
   return (
