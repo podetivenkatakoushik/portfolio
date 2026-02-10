@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion, Variants } from 'framer-motion';
 import { Github, Linkedin, Mail, ArrowRight } from 'lucide-react';
-import { HERO_TAGS } from '../constants';
+import { HERO_TAGS } from './constants';
 
 const Hero: React.FC = () => {
   // Stagger container for the main content
