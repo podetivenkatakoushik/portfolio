@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { FEATURE_CARDS } from '../constants';
+import { FEATURE_CARDS } from './constants';
 import { ArrowUpRight } from 'lucide-react';
 
 const FeatureCards: React.FC = () => {
